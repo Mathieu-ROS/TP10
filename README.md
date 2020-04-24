@@ -19,9 +19,9 @@ Avant de démarrer le TP, vérifiez que vous n'avez pas atteint votre quota d'es
 
 
 ### Consignes
-- Vous respecterez les différents principes de programmation vues dans le cours et les TPs précédents
-- Toutes vos classes doivent résider dans le paquetage `fr.umontpellier.iut`
-- Les signatures des méthodes et les noms des classes qui vous sont données doivent rester inchangés.
+- Avant d'écrire du code sur votre machine, faite chaque exercice sur une feuille de papier sans utiliser d'ordinateur. C'est un bon entraînement pour vérifier si vous comprenez bien les concepts et de vous préparez pour un examen. Vous pouvez consulter vos notes de cours pendant ce temps.
+- Le code de chaque exercice doit résider dans un package différent.
+- Pour les questions où des réponses en français ou des diagrammes de classes vous sont demandés, vous marquerez vos réponses dans un fichier **reponses.md** que vous déposerez à la racine de votre projet. Soyez précis et exhaustifs.
 
 
 ## TP10 : _Collections, Généricité et Exceptions_
@@ -31,3 +31,7 @@ Cliquez sur le lien ci-dessous pour faire votre fork privé du TP :
 LIEN CLASSROOM ICI
 
 Date limite de rendu de votre code sur le dépôt GitHub : **Dimanche 3 mai à 23h00**
+
+### Exercice 0
+
+Lisez les consignes et trouvez le sujet.
