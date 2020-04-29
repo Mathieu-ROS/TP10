@@ -30,7 +30,7 @@ Cliquez sur le lien ci-dessous pour faire votre fork privé du TP :
 
 https://classroom.github.com/a/n3kv8s22
 
-Date limite de rendu de votre code sur le dépôt GitHub : **Dimanche 3 mai à 23h00**
+Date limite de rendu de votre code sur le dépôt GitHub : **Jeudi 7 mai à 18h00**
 
 ### Exercice 0
 
